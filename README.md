@@ -1,4 +1,7 @@
-﻿# VSensor Q&A
+# 紧急通知：
+请*及时*查看文档：[关于预测误差评价的补充说明](./关于预测误差评价的补充说明.md)以获取误差评价相关帮助！
+
+# VSensor Q&A
 Repo for QA and BBS of VSensor platform in NACTrans 2020. Please login via http://vsensor.openits.cn/login.html
 
 ## 使用说明
